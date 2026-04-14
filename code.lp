@@ -39,4 +39,3 @@ path(R,X,Z) :- path(R,X,Y), use(R,Y,Z).
 
 #show use/3.
 #show chosen/1.
-#show request/3.
